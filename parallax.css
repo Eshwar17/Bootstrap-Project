@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+img {
+    width: 100%;
+    max-width: 50rem;
+}
+#para {
+    width: 100%;
+    max-width: 50rem;
+    margin: 40rem auto;
+    /* margin-top: 10rem; */
+}
